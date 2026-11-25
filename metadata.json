@@ -1,0 +1,6 @@
+{
+  "name": "這週紅什麼 Trend7",
+  "description": "結合即時熱門趨勢排行、AI 深度解析、短影音腳本創作與爆紅商品商機的智慧趨勢平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
